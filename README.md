@@ -1,4 +1,18 @@
-# Customer Churn Prediction System
+# 📊 Customer Churn Prediction System
+
+Machine Learning project for predicting customer churn using Python, Pandas, Scikit-learn, Random Forest, XGBoost, and Logistic Regression.
+
+## 🚀 Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Random Forest
+- Logistic Regression
+- Gradient Boosting
+- XGBoost
 
 ## 📌 Overview
 This project predicts customer churn using machine learning techniques. It helps businesses identify customers who are likely to leave and take preventive actions.
@@ -20,51 +34,43 @@ This project predicts customer churn using machine learning techniques. It helps
 - Accuracy evaluation
 
 ## 📊 Results
-- ✅ Developed a Customer Churn Prediction model using Machine Learning.
+
+- ✅ Developed a Customer Churn Prediction model.
 - ✅ Achieved **88% prediction accuracy**.
-- ✅ Compared Random Forest, Logistic Regression, Gradient Boosting, and SVM models.
-- ✅ Visualized model performance using Accuracy Comparison and ROC Curve.
-- ✅ Generated Confusion Matrix and Feature Importance graph.
-- ✅ Identified key factors influencing customer churn.
+- ✅ Compared Random Forest, Logistic Regression, Gradient Boosting, and SVM.
+- ✅ Generated Accuracy Comparison Chart.
+- ✅ Generated ROC Curve.
+- ✅ Generated Confusion Matrix.
+- ✅ Identified important features affecting churn.
 
 ## 🚀 Future Improvements
-- Use real-world dataset
-- Try advanced models (XGBoost)
-- Deploy as web app
+
+- Deploy using Streamlit.
+- Use real telecom customer datasets.
+- Improve accuracy using Hyperparameter Tuning.
+- Add Explainable AI (SHAP).
+- Integrate with Power BI Dashboard.
 ## 📂 Project Structure
 
 customer-churn-prediction/
-
+│
 ├── dataset/
-
 │   ├── customer_churn.csv
-
 │   └── README.md
-
+│
 ├── images/
-
 │   ├── dataset_preview_part1.png
-
 │   ├── dataset_preview_part2.png
-
 │   ├── dataset_info_part1.png
-
 │   ├── dataset_info_part2.png
-
-│   ├── model_accuracy.png
-
 │   ├── accuracy_comparison.png
-
+│   ├── model_accuracy.png
 │   ├── roc_curve.png
-
 │   ├── confusion_matrix.png
-
 │   └── feature_importance.png
-
+│
 ├── churn_prediction.py
-
 ├── requirements.txt
-
 └── README.md
 ## 💻 Installation
 
@@ -77,7 +83,42 @@ pip install -r requirements.txt
 
 python churn_prediction.py
 ```
+## 🔄 Project Workflow
 
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
+5. Data Preprocessing
+6. Model Training
+7. Model Evaluation
+8. Customer Churn Prediction
+
+---
+
+## 📷 Project Outputs
+
+### Dataset Preview
+![Dataset Preview](images/dataset_preview_part1.png)
+
+![Dataset Preview](images/dataset_preview_part2.png)
+
+### Dataset Information
+![Dataset Info](images/dataset_info_part1.png)
+
+![Dataset Info](images/dataset_info_part2.png)
+
+### Model Accuracy Comparison
+![Accuracy](images/model_accuracy.png)
+
+### ROC Curve
+![ROC Curve](images/roc_curve.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Feature Importance
+![Feature Importance](images/feature_importance.png)
 ## 👩‍💻 Author
 Madhulatha Akkala
 
