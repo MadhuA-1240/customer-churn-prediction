@@ -23,9 +23,28 @@ This project predicts customer churn using machine learning techniques. It helps
 - Improve retention strategies
 
 ## 🛠️ Technologies Used
-- Python
-- Pandas
-- Scikit-learn
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+* Random Forest
+* Logistic Regression
+* Gradient Boosting
+* Support Vector Machine (SVM)
+
+## 🔄 Project Workflow
+
+1. **Data Collection** – Loaded the customer churn dataset.
+2. **Data Preprocessing** – Cleaned and prepared the dataset.
+3. **Exploratory Data Analysis (EDA)** – Analyzed customer behavior and patterns.
+4. **Feature Engineering** – Selected relevant features for prediction.
+5. **Model Training** – Trained Random Forest, Logistic Regression, Gradient Boosting, and SVM models.
+6. **Model Evaluation** – Compared model performance using Accuracy, ROC Curve, and Confusion Matrix.
+7. **Prediction** – Predicted whether a customer is likely to churn.
+
+
 
 ## ⚙️ Features
 - Data preprocessing
@@ -35,21 +54,17 @@ This project predicts customer churn using machine learning techniques. It helps
 
 ## 📊 Results
 
-- ✅ Developed a Customer Churn Prediction model.
-- ✅ Achieved **88% prediction accuracy**.
+- ✅ Customer Churn Prediction model developed.
+- ✅ Best Model Accuracy: **88%**
 - ✅ Compared Random Forest, Logistic Regression, Gradient Boosting, and SVM.
-- ✅ Generated Accuracy Comparison Chart.
-- ✅ Generated ROC Curve.
-- ✅ Generated Confusion Matrix.
-- ✅ Identified important features affecting churn.
+- ✅ Generated visualizations for model evaluation.
 
 ## 🚀 Future Improvements
 
-- Deploy using Streamlit.
-- Use real telecom customer datasets.
-- Improve accuracy using Hyperparameter Tuning.
-- Add Explainable AI (SHAP).
-- Integrate with Power BI Dashboard.
+- Deploy as a Streamlit web application.
+- Train using a real telecom customer dataset.
+- Improve performance using Hyperparameter Tuning.
+- Experiment with XGBoost and LightGBM.
 ## 📂 Project Structure
 
 customer-churn-prediction/
@@ -99,26 +114,22 @@ python churn_prediction.py
 ## 📷 Project Outputs
 
 ### Dataset Preview
-![Dataset Preview](images/dataset_preview_part1.png)
-
-![Dataset Preview](images/dataset_preview_part2.png)
+(image)
 
 ### Dataset Information
-![Dataset Info](images/dataset_info_part1.png)
+(image)
 
-![Dataset Info](images/dataset_info_part2.png)
-
-### Model Accuracy Comparison
-![Accuracy](images/model_accuracy.png)
+### Accuracy Comparison
+(image)
 
 ### ROC Curve
-![ROC Curve](images/roc_curve.png)
+(image)
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+(image)
 
 ### Feature Importance
-![Feature Importance](images/feature_importance.png)
+(image)
 ## 👩‍💻 Author
 Madhulatha Akkala
 
