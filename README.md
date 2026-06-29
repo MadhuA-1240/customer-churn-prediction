@@ -20,9 +20,12 @@ This project predicts customer churn using machine learning techniques. It helps
 - Accuracy evaluation
 
 ## 📊 Results
-- Built a churn prediction model
-- Evaluated model performance using accuracy
-- Identified patterns in customer behavior
+- ✅ Developed a Customer Churn Prediction model using Machine Learning.
+- ✅ Achieved **88% prediction accuracy**.
+- ✅ Compared Random Forest, Logistic Regression, Gradient Boosting, and SVM models.
+- ✅ Visualized model performance using Accuracy Comparison and ROC Curve.
+- ✅ Generated Confusion Matrix and Feature Importance graph.
+- ✅ Identified key factors influencing customer churn.
 
 ## 🚀 Future Improvements
 - Use real-world dataset
