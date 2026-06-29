@@ -31,7 +31,41 @@ This project predicts customer churn using machine learning techniques. It helps
 - Use real-world dataset
 - Try advanced models (XGBoost)
 - Deploy as web app
-- 
+## 📂 Project Structure
+
+customer-churn-prediction/
+
+├── dataset/
+
+│   ├── customer_churn.csv
+
+│   └── README.md
+
+├── images/
+
+│   ├── dataset_preview_part1.png
+
+│   ├── dataset_preview_part2.png
+
+│   ├── dataset_info_part1.png
+
+│   ├── dataset_info_part2.png
+
+│   ├── model_accuracy.png
+
+│   ├── accuracy_comparison.png
+
+│   ├── roc_curve.png
+
+│   ├── confusion_matrix.png
+
+│   └── feature_importance.png
+
+├── churn_prediction.py
+
+├── requirements.txt
+
+└── README.md
 ## 💻 Installation
 
 ```bash
