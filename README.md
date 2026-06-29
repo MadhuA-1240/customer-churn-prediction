@@ -65,8 +65,10 @@ This project predicts customer churn using machine learning techniques. It helps
 - Train using a real telecom customer dataset.
 - Improve performance using Hyperparameter Tuning.
 - Experiment with XGBoost and LightGBM.
+
 ## 📂 Project Structure
 
+```text
 customer-churn-prediction/
 │
 ├── dataset/
@@ -77,16 +79,23 @@ customer-churn-prediction/
 │   ├── dataset_preview_part1.png
 │   ├── dataset_preview_part2.png
 │   ├── dataset_info_part1.png
-│   ├── dataset_info_part2.png
-│   ├── accuracy_comparison.png
+│   ├── dataset_info_Part2.png
 │   ├── model_accuracy.png
+│   ├── accuracy_comparison.png
 │   ├── roc_curve.png
 │   ├── confusion_matrix.png
-│   └── feature_importance.png
+│   ├── feature_importance.png
+│   ├── README.md
+│   └── outputs/
 │
 ├── churn_prediction.py
 ├── requirements.txt
+├── .gitignore
 └── README.md
+```
+
+
+
 ## 💻 Installation
 
 ```bash
@@ -110,26 +119,6 @@ python churn_prediction.py
 8. Customer Churn Prediction
 
 ---
-
-## 📷 Project Outputs
-
-### Dataset Preview
-(image)
-
-### Dataset Information
-(image)
-
-### Accuracy Comparison
-(image)
-
-### ROC Curve
-(image)
-
-### Confusion Matrix
-(image)
-
-### Feature Importance
-(image)
 ## 👩‍💻 Author
 Madhulatha Akkala
 
