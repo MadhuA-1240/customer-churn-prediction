@@ -31,6 +31,18 @@ This project predicts customer churn using machine learning techniques. It helps
 - Use real-world dataset
 - Try advanced models (XGBoost)
 - Deploy as web app
+- 
+## 💻 Installation
+
+```bash
+git clone https://github.com/MadhuA-1240/customer-churn-prediction.git
+
+cd customer-churn-prediction
+
+pip install -r requirements.txt
+
+python churn_prediction.py
+```
 
 ## 👩‍💻 Author
 Madhulatha Akkala
