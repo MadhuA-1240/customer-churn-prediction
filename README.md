@@ -31,3 +31,49 @@ This project predicts customer churn using machine learning techniques. It helps
 
 ## 👩‍💻 Author
 Madhulatha Akkala
+
+## 📸 Project Outputs
+
+### 📂 Dataset Preview
+
+![Dataset Preview 1](images/dataset_preview_part1.png)
+
+![Dataset Preview 2](images/dataset_preview_part2.png)
+
+---
+
+### 📋 Dataset Information
+
+![Dataset Info 1](images/dataset_info_part1.png)
+
+![Dataset Info 2](images/dataset_info_part2.png)
+
+---
+
+### 📈 Model Accuracy
+
+![Model Accuracy](images/model_accuracy.png)
+
+---
+
+### 📊 Accuracy Comparison
+
+![Accuracy Comparison](images/accuracy_comparison.png)
+
+---
+
+### 📉 ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+---
+
+### ⭐ Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+---
+
+### ✅ Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
