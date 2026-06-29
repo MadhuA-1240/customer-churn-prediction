@@ -54,10 +54,13 @@ This project predicts customer churn using machine learning techniques. It helps
 
 ## 📊 Results
 
-- ✅ Customer Churn Prediction model developed.
-- ✅ Best Model Accuracy: **88%**
-- ✅ Compared Random Forest, Logistic Regression, Gradient Boosting, and SVM.
-- ✅ Generated visualizations for model evaluation.
+✅ Developed a Customer Churn Prediction model.
+
+✅ Achieved 88% prediction accuracy using Random Forest.
+
+✅ Compared Random Forest, Logistic Regression, Gradient Boosting, and SVM models.
+
+✅ Visualized model performance using Accuracy, ROC Curve, Confusion Matrix, and Feature Importance.
 
 ## 🚀 Future Improvements
 
@@ -124,21 +127,6 @@ Madhulatha Akkala
 
 ## 📸 Project Outputs
 
-### 📂 Dataset Preview
-
-![Dataset Preview 1](images/dataset_preview_part1.png)
-
-![Dataset Preview 2](images/dataset_preview_part2.png)
-
----
-
-### 📋 Dataset Information
-
-![Dataset Info 1](images/dataset_info_part1.png)
-
-![Dataset Info 2](images/dataset_info_part2.png)
-
----
 
 ### 📈 Model Accuracy
 
